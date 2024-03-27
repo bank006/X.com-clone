@@ -1,5 +1,9 @@
-<video width="320" height="240" controls>
-  <source src="/myappvideo.mp4" type="video/mp4">
-  นี้คือหน้าการใช้แบบ full size
-</video>
+เป็นโปรเจคโคลน x.com
+![Full Screen](/public/fullscreen.png)
+
+เป็นขนาดเต็มจอ
+
+![Normal Screen](/public/nomalscreen.png)
+
+ขนาดกลาง
 
