@@ -1,9 +1,11 @@
 เป็นโปรเจคโคลน x.com
-![Full Screen](/public/fullscreen.png)
 
 เป็นขนาดเต็มจอ
+![Full Screen](/public/fullscreen.png)
 
-![Normal Screen](/public/nomalscreen.png)
 
 ขนาดกลาง
+![Normal Screen](/public/nomalscreen.png)
+
+
 
